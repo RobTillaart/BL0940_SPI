@@ -2,7 +2,7 @@
 //    FILE: BL0940_SPI.cpp
 //  AUTHOR: Rob Tillaart
 //    DATE: 2026-02-03
-// VERSION: 0.1.0
+// VERSION: 0.1.1
 // PURPOSE: Arduino library for BL0940 energy monitor, SPI interface.
 //     URL: https://github.com/RobTillaart/BL0940_SPI
 
